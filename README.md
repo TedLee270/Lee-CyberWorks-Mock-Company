@@ -37,44 +37,101 @@ Lee CyberWorks Inc
 
 | Department / OU                   | Full Name          | Title                          | Username          |
 | --------------------------------- | ------------------ | ------------------------------ | ----------------- |
-| **Executive**                     | Ted Lee            | Chief Executive Officer (CEO)  | ted.lee           |
+| **Executive**                     | Ted Lee            | Chief Executive Officer (CEO)  | ted.lee           | 
 | **Executive**                     | Sarah J. Kim       | Chief Technology Officer (CTO) | sarah.j.kim       |
 | **Executive**                     | David L. Chen      | Chief Operating Officer (COO)  | david.l.chen      |
 | **Executive**                     | Olivia F. West     | Executive Assistant            | olivia.f.west     |
+
+![ExecutiveUsers](ExecutiveUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
 | **HR**                            | Natalie R. Ortiz   | HR Manager                     | natalie.r.ortiz   |
 | **HR**                            | Leo M. Carter      | HR Assistant                   | leo.m.carter      |
 | **HR**                            | Monica D. Kim      | Recruiting Specialist          | monica.d.kim      |
 | **HR**                            | Jordan P. Torres   | Training Coordinator           | jordan.p.torres   |
-| **Finance**                       | Grace E. Thompson  | Chief Financial Officer (CFO)  | grace.e.thompson  |
+
+![HRUsers](HRUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **Finance**                       | Grace E. Thompson  | Chief Financial Officer (CFO)  | grace.e.thompson  | 
 | **Finance**                       | Victor T. Chen     | Accountant                     | victor.t.chen     |
 | **Finance**                       | Henry M. Price     | Billing Specialist             | henry.m.price     |
 | **Finance**                       | Sofia R. Patel     | Financial Analyst              | sofia.r.patel     |
-| **IT / Infrastructure**           | Daniel P. Wright   | Systems Administrator          | daniel.p.wright   |
+
+![FinanceUsers](FinanceUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **IT / Infrastructure**           | Daniel P. Wright   | Systems Administrator          | daniel.p.wright   | 
 | **IT / Infrastructure**           | Olivia S. Perez    | Network Engineer               | olivia.s.perez    |
 | **IT / Infrastructure**           | Kevin S. Ward      | Server Specialist              | kevin.s.ward      |
 | **IT / Infrastructure**           | Isaac J. Morgan    | Systems Analyst                | isaac.j.morgan    |
-| **IT / Security**                 | Marcus J. Santos   | Security Analyst               | marcus.j.santos   |
+
+![IT/INfrastructureUsers](ITInfrastructureUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **IT / Security**                 | Marcus J. Santos   | Security Analyst               | marcus.j.santos   | 
 | **IT / Security**                 | Patrick O. Greene  | Penetration Tester             | patrick.o.greene  |
 | **IT / Security**                 | Rachel K. Ford     | SOC Analyst                    | rachel.k.ford     |
 | **IT / Security**                 | Benjamin R. Carter | Security Engineer              | benjamin.r.carter |
-| **IT / Support**                  | Chloe L. Rivera    | Help Desk Lead                 | chloe.l.rivera    |
+
+![IT/SecurityUsers](ITSecurityUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **IT / Support**                  | Chloe L. Rivera    | Help Desk Lead                 | chloe.l.rivera    | 
 | **IT / Support**                  | Ethan R. Brooks    | Help Desk Technician           | ethan.r.brooks    |
 | **IT / Support**                  | Emily R. Flores    | Desktop Support Specialist     | emily.r.flores    |
 | **IT / Support**                  | Nathan G. Stewart  | Field Technician               | nathan.g.stewart  |
-| **Operations**                    | Anthony Q. Clark   | Operations Manager             | anthony.q.clark   |
+
+![IT/SupportUsers](ITSupportUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **Operations**                    | Anthony Q. Clark   | Operations Manager             | anthony.q.clark   | 
 | **Operations**                    | Tina K. Patel      | Logistics Coordinator          | tina.k.patel      |
 | **Operations**                    | Paul M. Turner     | Asset Manager                  | paul.m.turner     |
 | **Operations**                    | Sophia J. Ramirez  | Office Coordinator             | sophia.j.ramirez  |
-| **Sales**                         | Brandon M. Lee     | Sales Manager                  | brandon.m.lee     |
+
+![OperationsUsers](OperationsOU.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **Sales**                         | Brandon M. Lee     | Sales Manager                  | brandon.m.lee     | 
 | **Sales**                         | Rachel A. Nguyen   | Account Executive              | rachel.a.nguyen   |
 | **Sales**                         | Henry J. Owens     | Sales Associate                | henry.j.owens     |
 | **Sales**                         | Olivia R. Bennett  | Marketing Specialist           | olivia.r.bennett  |
-| **Projects / RedTeam**            | Isabella M. Flores | Red Team Engineer              | isabella.m.flores |
+
+![SalesUsers](SalesUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **Projects / RedTeam**            | Isabella M. Flores | Red Team Engineer              | isabella.m.flores | 
 | **Projects / RedTeam**            | Jason P. Cole      | Red Team Lead                  | jason.p.cole      |
-| **Projects / BlueTeam**           | Noah J. Johnson    | Blue Team Engineer             | noah.j.johnson    |
+
+![Projects/RedTeamUsers](ProjectsRedTeamUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **Projects / BlueTeam**           | Noah J. Johnson    | Blue Team Engineer             | noah.j.johnson    | 
 | **Projects / BlueTeam**           | Priya V. Shah      | Blue Team Lead                 | priya.v.shah      |
-| **Projects / ClientEnvironments** | Jared M. Nichols   | Client Support Technician      | jared.m.nichols   |
+
+![Projects/BlueTeamUsers](ProjectsBlueTeamUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **Projects / ClientEnvironments** | Jared M. Nichols   | Client Support Technician      | jared.m.nichols   | 
 | **Projects / ClientEnvironments** | Jacob H. Miller    | Client Environment Engineer    | jacob.h.miller    |
-| **Interns**                       | Emily S. Torres    | Security Intern                | emily.s.torres    |
+
+![Projects/ClientEnvironmentUsers](ProjectsClientEnvironmentUsers.png)
+
+| Department / OU                   | Full Name          | Title                          | Username          |
+| --------------------------------- | ------------------ | ------------------------------ | ----------------- |
+| **Interns**                       | Emily S. Torres    | Security Intern                | emily.s.torres    | 
 | **Interns**                       | Daniel L. Scott    | IT Intern                      | daniel.l.scott    |
+
+![InternUsers](InternUsers.png)
 
