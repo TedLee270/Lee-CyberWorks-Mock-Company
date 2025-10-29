@@ -5,7 +5,7 @@ This will be the foundation for my mock company directory.
 
 The internal AD domain was already set as MyDomain.local, however, I recreated all three VMs to create the Lee-Cyberworks.local domain.
 
-The Organizational Units will be as follows:
+### The Organizational Units will be as follows:
 Lee CyberWorks Inc
 * Executive
 * HR
