@@ -22,6 +22,8 @@ Lee CyberWorks Inc
 * Sales
 * Interns
 
+![OU Hierarchy](ActiveDirectoryOUs.png)
+
 | OU Name        | Description                                                                                                         | Example GPOs                                         |
 | -------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | **Executive**  | CEO, CTO, and management staff.                                                                                     | Drive mapping, restricted PowerShell access.         |
